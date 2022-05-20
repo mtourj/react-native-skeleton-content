@@ -27,7 +27,7 @@ React native Skeleton Content, a simple yet fully customizable component made to
 
 ### Installation
 
-`npm install react-native-skeleton-content`
+`npm install @mtourj/react-native-skeleton-content`
 
 ### Usage
 
