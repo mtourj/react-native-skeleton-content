@@ -1,3 +1,6 @@
+## Fork Information
+This fork updates expo-linear-gradient for Expo SDK 45 and EAS build support, and also adds web support.
+
 ## React Native Skeleton Content
 
 <!---https://raw.githubusercontent.com/alexZajac/react-native-skeleton-content/master/demos/main.gif-->
