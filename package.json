@@ -1,6 +1,6 @@
 {
   "name": "@mtourj/react-native-skeleton-content",
-  "version": "1.0.29",
+  "version": "1.0.30",
   "description": "A simple and fully customizable React Native component that implements a skeleton-like loader",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
@@ -81,7 +81,7 @@
     "typescript": "4.4.4"
   },
   "dependencies": {
-    "expo-linear-gradient": "~11.4.0",
+    "expo-linear-gradient": ">=11.4.0",
     "react-native-redash": "^16.0.11"
   }
 }
